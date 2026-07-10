@@ -296,7 +296,7 @@ force-app/
 1. Clone the repository.
 
 ```
-git clone https://github.com/pardhu-2412/AI-Powered-Lead-Generation-System.git
+git clone https://github.com/Harshavardhan264/AI-Powered-Lead-Generation-System.git
 ```
 
 2. Authorize Salesforce Org.
@@ -334,7 +334,7 @@ sf project deploy start
 
 GitHub Repository:
 
-https://github.com/pardhu-2412/AI-Powered-Lead-Generation-System
+https://github.com/Harshavardhan264/AI-Powered-Lead-Generation-System
 
 ---
 
